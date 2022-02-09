@@ -38,12 +38,6 @@ This is Datacom Technologies website.
 			<img width="1080" src="https://user-images.githubusercontent.com/98855318/153207108-2495dcf8-06a7-46d8-a52e-f9ab271c788e.png">
 		</td>   
   </tr>
-  <tr>
-   <td>
-      <br>
-			<img width="1080" src="https://user-images.githubusercontent.com/98855318/153207112-c28d8cb2-b372-4726-abf1-aca13f65bee6.png">
-		</td>   
-  </tr>
 </table>
 
 <table>
@@ -84,4 +78,4 @@ To execute the project, it will be necessary to install / use the following appl
 * NPM/Yarn
 
 ## Technologies
-* HTML, CSS, Javascript and ReactJS.
+* HTML, CSS/SASS, Javascript and ReactJS.
