@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="15.808356"
+   height="14.513602"
+   viewBox="0 0 15.808356 14.513602"
+   fill="none"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="/home/user/Documentos/Projects/website/public/favicon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="15.186207"
+     inkscape:cx="5.4984106"
+     inkscape:cy="6.9800182"
+     inkscape:window-width="1366"
+     inkscape:window-height="699"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Dotnik_Studio_Logo_-_Icon" />
+  <rect
+     x="0"
+     width="15.808356"
+     height="14.513602"
+     fill="#C0ADD1"
+     id="rect2"
+     style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.29723"
+     y="0" />
+  <g
+     id="Dotnik_Studio_Logo_-_Icon"
+     data-name="Dotnik Studio Logo - Icon"
+     transform="matrix(0.27422909,0,0,0.27422909,-272.40124,-51.367994)">
+    <path
+       id="D_Arrow-6"
+       data-name="D Arrow"
+       d="m 1014.0092,214.93209 -17.57739,20.15858 h 17.89399 l 8.6143,-9.88016 8.958,-10.27314 v -0.005 l 0.027,-0.0273 -8.9258,-10.21293 -8.6732,-9.98927 h -17.89396 z"
+       fill="#2c3644"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.146852" />
+    <path
+       id="_2-7"
+       data-name="/"
+       d="m 1049.6709,194.70199 h -18.1539 l -4.488,4.85784 9.0741,9.82921 z"
+       fill="#2c3644"
+       opacity="0.25"
+       style="fill:#ffffff;stroke-width:0.146852" />
+  </g>
+</svg>
