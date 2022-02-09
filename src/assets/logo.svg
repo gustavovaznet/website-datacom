@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="177.94212"
+   height="62.173687"
+   viewBox="0 0 177.94212 62.173687"
+   fill="none"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.7965517"
+     inkscape:cx="74.673025"
+     inkscape:cy="37.138965"
+     inkscape:window-width="1366"
+     inkscape:window-height="699"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Dotnik_Studio_Logo_-_Icon" />
+  <rect
+     x="110.22194"
+     width="67.720184"
+     height="62.173687"
+     fill="#C0ADD1"
+     id="rect2"
+     style="fill:#800000;stroke:none;stroke-width:1.27328;fill-opacity:1"
+     y="0" />
+  <g
+     id="Dotnik_Studio_Logo_-_Icon"
+     data-name="Dotnik Studio Logo - Icon"
+     transform="matrix(0.27422909,0,0,0.27422909,-187.08368,-27.924816)">
+    <path
+       id="D_Arrow-6"
+       data-name="D Arrow"
+       d="m 757.51512,219.88329 -75.29836,86.3558 h 76.65467 l 36.90214,-42.32486 38.37422,-44.00829 v -0.0233 l 0.11451,-0.11707 -38.23641,-43.75036 -37.15443,-42.79226 h -76.65467 z"
+       fill="#2c3644"
+       style="fill:#800000;stroke-width:0.629086;fill-opacity:1" />
+    <path
+       id="_2-7"
+       data-name="/"
+       d="M 910.28346,133.22114 H 832.5153 l -19.22547,20.81015 38.8718,42.10656 z"
+       fill="#2c3644"
+       opacity="0.25"
+       style="fill:#000000;stroke-width:0.629086" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:51.8311px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.29577"
+       x="1135.5427"
+       y="237.8717"
+       id="text3061-0"><tspan
+         sodipodi:role="line"
+         id="tspan3059-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cubest;-inkscape-font-specification:'Cubest Bold';fill:#ffffff;stroke:#ffffff;stroke-width:1.29577"
+         x="1135.5427"
+         y="237.8717">COM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:51.8311px;line-height:1.25;font-family:sans-serif;fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1.29577"
+       x="874.21246"
+       y="236.49371"
+       id="text3061-0-2"><tspan
+         sodipodi:role="line"
+         id="tspan3059-6-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cubest;-inkscape-font-specification:'Cubest Bold';fill:#800000;stroke:#800000;stroke-width:1.29577;fill-opacity:1"
+         x="874.21246"
+         y="236.49371">data</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2.13888;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect34301"
+       width="13.024722"
+       height="13.024722"
+       x="1106.9521"
+       y="223.93486"
+       ry="3.4359121" />
+  </g>
+</svg>
